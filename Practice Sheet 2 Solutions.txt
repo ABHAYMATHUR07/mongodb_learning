@@ -1,6 +1,13 @@
-##
-Assignment 11 
-##
+      ________________
+     /                \
+    /    *        *    \
+   /       ******       \
+  /    *  ********  *    \
+ /        ********        \
+/__________________________\
+
+        ^^^^^^^^^^
+
 1. Group users by role and calculate the average salary for each role.
 [{$group: {
   _id: "$role",
