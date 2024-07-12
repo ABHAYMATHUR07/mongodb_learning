@@ -1,0 +1,25 @@
+KEY POINTS ABOUT MongoDB 
+
+NoSQL Database: MongoDB is a NoSQL database that stores data in a flexible, JSON-like format called BSON (Binary JSON).
+
+Documents: Data is stored in documents, which are JSON-like structures. Each document can have its own unique schema.
+
+Collections: Documents are organized into collections, similar to tables in relational databases.
+
+Scalability: MongoDB is designed to scale horizontally by adding more servers to handle larger data volumes and more users.
+
+Indexes: Indexes can be created to improve query performance on fields frequently queried.
+
+Aggregation Framework: MongoDB provides an aggregation framework for performing data processing tasks.
+
+Sharding: MongoDB supports sharding, which divides data across multiple servers to distribute workload and improve performance.
+
+Flexibility: Schema flexibility allows for easy updates and changes to data structures without downtime.
+
+Geospatial Queries: MongoDB supports geospatial queries, making it suitable for location-based applications.
+
+Replication: Provides high availability through replica sets, ensuring data redundancy and failover capabilities.
+
+Atomic Operations: Supports atomic operations on single documents, ensuring data consistency.
+
+GridFS: MongoDB includes GridFS for storing and retrieving large files, exceeding the BSON document size limit.
